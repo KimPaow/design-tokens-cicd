@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "tokens:build": "npm run tokens:transform && npm run tokens:build-themes && tsc --build tsconfig.json",
+    "tokens:transform": "npm run tokens:transform-light && npm run tokens:transform-dark",
+    "tokens:transform-dark": "token-transformer src/figma-tokens-output.json --output=sd-tokens/sd-dark.json --sets=base/colors,base/radii,base/shadows,base/dimension,base/typography,themes/dark,semantic/theme,semantic/typography --excludes=themes/light",
+    "tokens:transform-light": "token-transformer src/figma-tokens-output.json --output=sd-tokens/sd-light.json --sets=base/colors,base/radii,base/shadows,base/dimension,base/typography,themes/light,semantic/theme,semantic/typography --excludes=themes/dark",
+    "tokens:build-themes": "ts-node design-tokens/scripts/build.ts"
   },
   "dependencies": {
     "@next/font": "13.1.6",
@@ -19,5 +24,11 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "token-transformer": "^0.0.28"
   }
 }

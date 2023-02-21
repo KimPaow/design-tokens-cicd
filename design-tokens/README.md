@@ -1,6 +1,6 @@
-# allium-design-tokens
+<!-- # design-tokens
 
-Design tokens for Allium
+Design tokens base
 
 ## Background
 
@@ -25,8 +25,8 @@ Whenever pushes are made to the branch `tokens/figma-design-tokens` a GitHub Act
 For the moment there is we're not publishing these tokens anywhere, but they can be consumed locally within the monorepo as follows:
 
 ```jsx
-import lightTheme from '@caddijp/allium-design-tokens/dist/light.json'
+import lightTheme from '@/design-tokens/dist/light.json'
 import { ThemeProvider } from 'styled-components'
 
 <ThemeProvider theme={lightTheme}>App code</ThemeProvider>
-```
+``` -->
