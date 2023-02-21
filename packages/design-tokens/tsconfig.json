@@ -1,0 +1,16 @@
+{
+  "extends": "../../config/tsconfig.base.json",
+  "include": [
+    "src/themes/*.ts",
+    "src/index.ts",
+    "src/types/*.ts"
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "tsBuildInfoFile": "dist/.tsbuildinfo"
+  }
+}

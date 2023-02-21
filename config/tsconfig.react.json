@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "sourceMap": true,
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+  },
+}

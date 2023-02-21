@@ -1,0 +1,11 @@
+{
+  "extends": "@tsconfig/strictest/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "composite": true,
+    "esModuleInterop": true,
+    "lib": [
+      "dom"
+    ]
+  },
+}

@@ -1,0 +1,22 @@
+extends:
+  - './.eslintrc.react.yml'
+plugins:
+  - 'react-hooks'
+rules:
+  # see: https://github.com/jsx-eslint/eslint-plugin-react/issues/3423
+  'react/no-unknown-property':
+    - warn
+    - ignore:
+        - position
+        - args
+        - intensity
+        - map
+        - attach
+        - enableZoom
+        - enablePan
+        - enableRotate
+        - maxAzimuthAngle
+        - maxPolarAngle
+        - minAzimuthAngle
+        - minPolarAngle
+        - transparent
