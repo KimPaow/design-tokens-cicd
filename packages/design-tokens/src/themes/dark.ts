@@ -6,7 +6,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '8.6rem',
+          fontSize: '12.2rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -20,7 +20,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 86,
+            fontSize: 122,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -45,7 +45,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '8.6rem',
+          fontSize: '12.2rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -59,7 +59,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 86,
+            fontSize: 122,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -86,7 +86,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '5rem',
+          fontSize: '7.1rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -100,7 +100,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 50,
+            fontSize: 71,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -125,7 +125,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '5rem',
+          fontSize: '7.1rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -139,7 +139,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 50,
+            fontSize: 71,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -166,7 +166,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '6rem',
+          fontSize: '8.5rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -180,7 +180,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 60,
+            fontSize: 85,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -205,7 +205,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '6rem',
+          fontSize: '8.5rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -219,7 +219,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 60,
+            fontSize: 85,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -246,7 +246,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '7.2rem',
+          fontSize: '10.2rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -260,7 +260,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 72,
+            fontSize: 102,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -285,7 +285,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '7.2rem',
+          fontSize: '10.2rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -299,7 +299,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 72,
+            fontSize: 102,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -326,7 +326,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '4.2rem',
+          fontSize: '5.9rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -340,7 +340,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 42,
+            fontSize: 59,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -365,7 +365,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '4.2rem',
+          fontSize: '5.9rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -379,7 +379,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 42,
+            fontSize: 59,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -406,7 +406,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '3.5rem',
+          fontSize: '4.9rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -420,7 +420,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 35,
+            fontSize: 49,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -445,7 +445,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '3.5rem',
+          fontSize: '4.9rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -459,7 +459,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 35,
+            fontSize: 49,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -486,7 +486,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '110%',
-          fontSize: '2.9rem',
+          fontSize: '4.1rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -500,7 +500,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '110%',
-            fontSize: 29,
+            fontSize: 41,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -525,7 +525,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '110%',
-          fontSize: '2.9rem',
+          fontSize: '4.1rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -539,7 +539,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '110%',
-            fontSize: 29,
+            fontSize: 41,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -566,7 +566,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '130%',
-          fontSize: '2.4rem',
+          fontSize: '3.4rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -580,7 +580,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '130%',
-            fontSize: 24,
+            fontSize: 34,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -605,7 +605,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '130%',
-          fontSize: '2.4rem',
+          fontSize: '3.4rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -619,7 +619,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '130%',
-            fontSize: 24,
+            fontSize: 34,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -646,7 +646,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Bold',
           lineHeight: '130%',
-          fontSize: '1.7rem',
+          fontSize: '2.3rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -660,7 +660,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Bold',
             lineHeight: '130%',
-            fontSize: 17,
+            fontSize: 23,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -685,7 +685,7 @@ export default {
           fontFamily: 'PT Serif',
           fontWeight: 'Regular',
           lineHeight: '130%',
-          fontSize: '1.7rem',
+          fontSize: '2.3rem',
           letterSpacing: '-1%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -699,7 +699,7 @@ export default {
             fontFamily: 'PT Serif',
             fontWeight: 'Regular',
             lineHeight: '130%',
-            fontSize: 17,
+            fontSize: 23,
             letterSpacing: '-1%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -726,7 +726,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '2rem',
+          fontSize: '2.8rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -740,7 +740,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 20,
+            fontSize: 28,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -765,7 +765,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '2rem',
+          fontSize: '2.8rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -779,7 +779,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 20,
+            fontSize: 28,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -806,7 +806,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '1.4rem',
+          fontSize: '1.9rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -820,7 +820,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 14,
+            fontSize: 19,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -845,7 +845,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '1.4rem',
+          fontSize: '1.9rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -859,7 +859,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 14,
+            fontSize: 19,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -886,7 +886,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '1.2rem',
+          fontSize: '1.6rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -900,7 +900,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 12,
+            fontSize: 16,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -925,7 +925,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '1.2rem',
+          fontSize: '1.6rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -939,7 +939,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 12,
+            fontSize: 16,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -966,7 +966,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '1rem',
+          fontSize: '1.3rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -980,7 +980,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 10,
+            fontSize: 13,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1005,7 +1005,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '1rem',
+          fontSize: '1.3rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -1019,7 +1019,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 10,
+            fontSize: 13,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1046,7 +1046,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '0.8rem',
+          fontSize: '1.1rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -1060,7 +1060,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 8,
+            fontSize: 11,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1085,7 +1085,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '0.8rem',
+          fontSize: '1.1rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -1099,7 +1099,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 8,
+            fontSize: 11,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1126,7 +1126,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Bold',
           lineHeight: '150%',
-          fontSize: '0.7rem',
+          fontSize: '0.9rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -1140,7 +1140,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: 7,
+            fontSize: 9,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1165,7 +1165,7 @@ export default {
           fontFamily: 'Oxygen',
           fontWeight: 'Regular',
           lineHeight: '150%',
-          fontSize: '0.7rem',
+          fontSize: '0.9rem',
           letterSpacing: '0%',
           paragraphSpacing: 0,
           textCase: 'none',
@@ -1179,7 +1179,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: 7,
+            fontSize: 9,
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1207,7 +1207,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: '1rem',
+            fontSize: '1.3rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1221,7 +1221,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Bold',
               lineHeight: '150%',
-              fontSize: 10,
+              fontSize: 13,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1248,7 +1248,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: '1rem',
+            fontSize: '1.3rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1262,7 +1262,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Regular',
               lineHeight: '150%',
-              fontSize: 10,
+              fontSize: 13,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1291,7 +1291,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: '1.2rem',
+            fontSize: '1.6rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1305,7 +1305,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Bold',
               lineHeight: '150%',
-              fontSize: 12,
+              fontSize: 16,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1332,7 +1332,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: '1.2rem',
+            fontSize: '1.6rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1346,7 +1346,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Regular',
               lineHeight: '150%',
-              fontSize: 12,
+              fontSize: 16,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1375,7 +1375,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: '1.7rem',
+            fontSize: '2.3rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1389,7 +1389,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Bold',
               lineHeight: '150%',
-              fontSize: 17,
+              fontSize: 23,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1416,7 +1416,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: '1.7rem',
+            fontSize: '2.3rem',
             letterSpacing: '3%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1430,7 +1430,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Regular',
               lineHeight: '150%',
-              fontSize: 17,
+              fontSize: 23,
               letterSpacing: '3%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1461,7 +1461,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: '1rem',
+            fontSize: '1.3rem',
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1475,7 +1475,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Bold',
               lineHeight: '150%',
-              fontSize: 10,
+              fontSize: 13,
               letterSpacing: '0%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1502,7 +1502,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: '1rem',
+            fontSize: '1.3rem',
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1516,7 +1516,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Regular',
               lineHeight: '150%',
-              fontSize: 10,
+              fontSize: 13,
               letterSpacing: '0%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1545,7 +1545,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Bold',
             lineHeight: '150%',
-            fontSize: '1.2rem',
+            fontSize: '1.6rem',
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1559,7 +1559,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Bold',
               lineHeight: '150%',
-              fontSize: 12,
+              fontSize: 16,
               letterSpacing: '0%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -1586,7 +1586,7 @@ export default {
             fontFamily: 'Oxygen',
             fontWeight: 'Regular',
             lineHeight: '150%',
-            fontSize: '1.2rem',
+            fontSize: '1.6rem',
             letterSpacing: '0%',
             paragraphSpacing: 0,
             textCase: 'none',
@@ -1600,7 +1600,7 @@ export default {
               fontFamily: 'Oxygen',
               fontWeight: 'Regular',
               lineHeight: '150%',
-              fontSize: 12,
+              fontSize: 16,
               letterSpacing: '0%',
               paragraphSpacing: 0,
               textCase: 'none',
@@ -2186,12 +2186,12 @@ export default {
     fg: {
       opacity: {
         '1': {
-          value: '#1f1f1f03',
+          value: '#42424203',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f03',
+            value: '#42424203',
             type: 'color'
           },
           name: 'ThemeFgOpacity1',
@@ -2209,12 +2209,12 @@ export default {
           ]
         },
         '5': {
-          value: '#1f1f1f0d',
+          value: '#4242420d',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f0d',
+            value: '#4242420d',
             type: 'color'
           },
           name: 'ThemeFgOpacity5',
@@ -2232,12 +2232,12 @@ export default {
           ]
         },
         '10': {
-          value: '#1f1f1f1a',
+          value: '#4242421a',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f1a',
+            value: '#4242421a',
             type: 'color'
           },
           name: 'ThemeFgOpacity10',
@@ -2255,12 +2255,12 @@ export default {
           ]
         },
         '20': {
-          value: '#1f1f1f33',
+          value: '#42424233',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f33',
+            value: '#42424233',
             type: 'color'
           },
           name: 'ThemeFgOpacity20',
@@ -2278,12 +2278,12 @@ export default {
           ]
         },
         '30': {
-          value: '#1f1f1f4d',
+          value: '#4242424d',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f4d',
+            value: '#4242424d',
             type: 'color'
           },
           name: 'ThemeFgOpacity30',
@@ -2301,12 +2301,12 @@ export default {
           ]
         },
         '40': {
-          value: '#1f1f1f66',
+          value: '#42424266',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f66',
+            value: '#42424266',
             type: 'color'
           },
           name: 'ThemeFgOpacity40',
@@ -2324,12 +2324,12 @@ export default {
           ]
         },
         '50': {
-          value: '#1f1f1f80',
+          value: '#42424280',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f80',
+            value: '#42424280',
             type: 'color'
           },
           name: 'ThemeFgOpacity50',
@@ -2347,12 +2347,12 @@ export default {
           ]
         },
         '60': {
-          value: '#1f1f1f99',
+          value: '#42424299',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1f99',
+            value: '#42424299',
             type: 'color'
           },
           name: 'ThemeFgOpacity60',
@@ -2370,12 +2370,12 @@ export default {
           ]
         },
         '70': {
-          value: '#1f1f1fb3',
+          value: '#424242b3',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1fb3',
+            value: '#424242b3',
             type: 'color'
           },
           name: 'ThemeFgOpacity70',
@@ -2393,12 +2393,12 @@ export default {
           ]
         },
         '80': {
-          value: '#1f1f1fcc',
+          value: '#424242cc',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1fcc',
+            value: '#424242cc',
             type: 'color'
           },
           name: 'ThemeFgOpacity80',
@@ -2416,12 +2416,12 @@ export default {
           ]
         },
         '90': {
-          value: '#1f1f1fe6',
+          value: '#424242e6',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#1f1f1fe6',
+            value: '#424242e6',
             type: 'color'
           },
           name: 'ThemeFgOpacity90',
@@ -2674,27 +2674,6 @@ export default {
           'color'
         ]
       },
-      focus: {
-        value: '#6475f733',
-        type: 'color',
-        filePath: 'sd-tokens/sd-dark.json',
-        isSource: true,
-        original: {
-          value: '#6475f733',
-          type: 'color'
-        },
-        name: 'ThemeShadowFocus',
-        attributes: {
-          category: 'theme',
-          type: 'shadow',
-          item: 'focus'
-        },
-        path: [
-          'theme',
-          'shadow',
-          'focus'
-        ]
-      },
       opacity: {
         base: {
           value: 1,
@@ -2746,12 +2725,12 @@ export default {
     },
     bg: {
       surface: {
-        value: '#1F1F1F',
+        value: '#424242',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#1F1F1F',
+          value: '#424242',
           type: 'color'
         },
         name: 'ThemeBgSurface',
@@ -2788,12 +2767,12 @@ export default {
         ]
       },
       muted: {
-        value: '#424242',
+        value: '#757575',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#424242',
+          value: '#757575',
           type: 'color'
         },
         name: 'ThemeBgMuted',
@@ -2853,12 +2832,12 @@ export default {
         ]
       },
       default: {
-        value: '#6475f7',
+        value: '#e95c7b',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#6475f7',
+          value: '#e95c7b',
           type: 'color'
         },
         name: 'ThemeAccentDefault',
@@ -2895,12 +2874,12 @@ export default {
         ]
       },
       muted: {
-        value: '#3142c4',
+        value: '#9c0f2e',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#3142c4',
+          value: '#9c0f2e',
           type: 'color'
         },
         name: 'ThemeAccentMuted',
@@ -2916,12 +2895,12 @@ export default {
         ]
       },
       emphasis: {
-        value: '#3d53f5',
+        value: '#df1642',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#3d53f5',
+          value: '#df1642',
           type: 'color'
         },
         name: 'ThemeAccentEmphasis',
@@ -3130,12 +3109,12 @@ export default {
         ]
       },
       'on-info': {
-        value: '#d8ddfd',
+        value: '#ffffff',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#d8ddfd',
+          value: '#ffffff',
           type: 'color'
         },
         name: 'ThemeInfoOnInfo',
@@ -3237,12 +3216,12 @@ export default {
         ]
       },
       'on-error': {
-        value: '#fce8ec',
+        value: '#ffffff',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#fce8ec',
+          value: '#ffffff',
           type: 'color'
         },
         name: 'ThemeErrorOnError',
@@ -3344,12 +3323,12 @@ export default {
         ]
       },
       'on-success': {
-        value: '#e8f6ee',
+        value: '#ffffff',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#e8f6ee',
+          value: '#ffffff',
           type: 'color'
         },
         name: 'ThemeSuccessOnSuccess',
@@ -3367,12 +3346,12 @@ export default {
     },
     input: {
       background: {
-        value: '#323232',
+        value: '#ffffff',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#323232',
+          value: '#ffffff',
           type: 'color'
         },
         name: 'ThemeInputBackground',
@@ -3388,12 +3367,12 @@ export default {
         ]
       },
       text: {
-        value: '#bdbdbd',
+        value: '#424242',
         type: 'color',
         filePath: 'sd-tokens/sd-dark.json',
         isSource: true,
         original: {
-          value: '#bdbdbd',
+          value: '#424242',
           type: 'color'
         },
         name: 'ThemeInputText',
@@ -3431,12 +3410,12 @@ export default {
       },
       border: {
         default: {
-          value: '#ffffff33',
+          value: '#e0e0e0',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#ffffff33',
+            value: '#e0e0e0',
             type: 'color'
           },
           name: 'ThemeInputBorderDefault',
@@ -3454,12 +3433,12 @@ export default {
           ]
         },
         disabled: {
-          value: '#ffffff1a',
+          value: '#eeeeee',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#ffffff1a',
+            value: '#eeeeee',
             type: 'color'
           },
           name: 'ThemeInputBorderDisabled',
@@ -3479,12 +3458,12 @@ export default {
       },
       fg: {
         disabled: {
-          value: '#757575',
+          value: '#e0e0e0',
           type: 'color',
           filePath: 'sd-tokens/sd-dark.json',
           isSource: true,
           original: {
-            value: '#757575',
+            value: '#e0e0e0',
             type: 'color'
           },
           name: 'ThemeInputFgDisabled',
@@ -3717,103 +3696,6 @@ export default {
           'shadows',
           'theme',
           '100'
-        ]
-      }
-    },
-    focus: {
-      '20': {
-        value: '0px 0px 0px 2px #6475f733',
-        type: 'boxShadow',
-        filePath: 'sd-tokens/sd-dark.json',
-        isSource: true,
-        original: {
-          value: [
-            {
-              color: '#6475f733',
-              type: 'dropShadow',
-              x: 0,
-              y: 0,
-              blur: 0,
-              spread: 2
-            }
-          ],
-          type: 'boxShadow'
-        },
-        name: 'ShadowsFocus20',
-        attributes: {
-          category: 'shadows',
-          type: 'focus',
-          item: '20'
-        },
-        path: [
-          'shadows',
-          'focus',
-          '20'
-        ]
-      }
-    },
-    spread: {
-      '10': {
-        type: 'dimension',
-        value: 2,
-        filePath: 'sd-tokens/sd-dark.json',
-        isSource: true,
-        original: {
-          type: 'dimension',
-          value: 2
-        },
-        name: 'ShadowsSpread10',
-        attributes: {
-          category: 'shadows',
-          type: 'spread',
-          item: '10'
-        },
-        path: [
-          'shadows',
-          'spread',
-          '10'
-        ]
-      },
-      '20': {
-        type: 'dimension',
-        value: 4,
-        filePath: 'sd-tokens/sd-dark.json',
-        isSource: true,
-        original: {
-          type: 'dimension',
-          value: 4
-        },
-        name: 'ShadowsSpread20',
-        attributes: {
-          category: 'shadows',
-          type: 'spread',
-          item: '20'
-        },
-        path: [
-          'shadows',
-          'spread',
-          '20'
-        ]
-      },
-      base: {
-        type: 'dimension',
-        value: 2,
-        filePath: 'sd-tokens/sd-dark.json',
-        isSource: true,
-        original: {
-          type: 'dimension',
-          value: 2
-        },
-        name: 'ShadowsSpreadBase',
-        attributes: {
-          category: 'shadows',
-          type: 'spread',
-          item: 'base'
-        },
-        path: [
-          'shadows',
-          'spread',
-          'base'
         ]
       }
     },
@@ -4686,12 +4568,12 @@ export default {
   },
   fontSize: {
     base: {
-      value: 12,
+      value: 16,
       type: 'scale',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 12,
+        value: 16,
         type: 'scale'
       },
       name: 'FontSizeBase',
@@ -4724,12 +4606,12 @@ export default {
       ]
     },
     xxs: {
-      value: '0.7rem',
+      value: '0.9rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 7,
+        value: 9,
         type: 'fontSizes'
       },
       name: 'FontSizeXxs',
@@ -4743,12 +4625,12 @@ export default {
       ]
     },
     xs: {
-      value: '0.8rem',
+      value: '1.1rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 8,
+        value: 11,
         type: 'fontSizes'
       },
       name: 'FontSizeXs',
@@ -4762,12 +4644,12 @@ export default {
       ]
     },
     sm: {
-      value: '1rem',
+      value: '1.3rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 10,
+        value: 13,
         type: 'fontSizes'
       },
       name: 'FontSizeSm',
@@ -4781,12 +4663,12 @@ export default {
       ]
     },
     md: {
-      value: '1.2rem',
+      value: '1.6rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 12,
+        value: 16,
         type: 'fontSizes'
       },
       name: 'FontSizeMd',
@@ -4800,12 +4682,12 @@ export default {
       ]
     },
     lg: {
-      value: '1.4rem',
+      value: '1.9rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 14,
+        value: 19,
         type: 'fontSizes'
       },
       name: 'FontSizeLg',
@@ -4819,12 +4701,12 @@ export default {
       ]
     },
     xl: {
-      value: '1.7rem',
+      value: '2.3rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 17,
+        value: 23,
         type: 'fontSizes'
       },
       name: 'FontSizeXl',
@@ -4838,12 +4720,12 @@ export default {
       ]
     },
     '2xl': {
-      value: '2rem',
+      value: '2.8rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 20,
+        value: 28,
         type: 'fontSizes'
       },
       name: 'FontSize2xl',
@@ -4857,12 +4739,12 @@ export default {
       ]
     },
     '3xl': {
-      value: '2.4rem',
+      value: '3.4rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 24,
+        value: 34,
         type: 'fontSizes'
       },
       name: 'FontSize3xl',
@@ -4876,12 +4758,12 @@ export default {
       ]
     },
     '4xl': {
-      value: '2.9rem',
+      value: '4.1rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 29,
+        value: 41,
         type: 'fontSizes'
       },
       name: 'FontSize4xl',
@@ -4895,12 +4777,12 @@ export default {
       ]
     },
     '5xl': {
-      value: '3.5rem',
+      value: '4.9rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 35,
+        value: 49,
         type: 'fontSizes'
       },
       name: 'FontSize5xl',
@@ -4914,12 +4796,12 @@ export default {
       ]
     },
     '6xl': {
-      value: '4.2rem',
+      value: '5.9rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 42,
+        value: 59,
         type: 'fontSizes'
       },
       name: 'FontSize6xl',
@@ -4933,12 +4815,12 @@ export default {
       ]
     },
     '7xl': {
-      value: '5rem',
+      value: '7.1rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 50,
+        value: 71,
         type: 'fontSizes'
       },
       name: 'FontSize7xl',
@@ -4952,12 +4834,12 @@ export default {
       ]
     },
     '8xl': {
-      value: '6rem',
+      value: '8.5rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 60,
+        value: 85,
         type: 'fontSizes'
       },
       name: 'FontSize8xl',
@@ -4971,12 +4853,12 @@ export default {
       ]
     },
     '9xl': {
-      value: '7.2rem',
+      value: '10.2rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 72,
+        value: 102,
         type: 'fontSizes'
       },
       name: 'FontSize9xl',
@@ -4990,12 +4872,12 @@ export default {
       ]
     },
     '10xl': {
-      value: '8.6rem',
+      value: '12.2rem',
       type: 'fontSizes',
       filePath: 'sd-tokens/sd-dark.json',
       isSource: true,
       original: {
-        value: 86,
+        value: 122,
         type: 'fontSizes'
       },
       name: 'FontSize10xl',
